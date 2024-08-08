@@ -1,0 +1,6 @@
+astropy==6.1.2
+astroquery==0.4.7
+geopy==2.4.1
+pyephem==9.99
+pytz==2024.1
+timezonefinder==6.5.2
